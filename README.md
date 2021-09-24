@@ -1,4 +1,4 @@
-# Access nginix from private ec2 instance via load balancer and created from auto scaling group
+# Access nginx from private ec2 instance via load balancer and created from auto scaling group
 create VPC,
 
 create 2 subnets, 
